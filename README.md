@@ -38,7 +38,8 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/Mauriciolopesantos/Mauriciolopesantos/output/github-contribution-grid-snake.svg)
+## 🔥 GitHub Streak
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mauriciolopesantos&theme=dark
 
 ---
 
