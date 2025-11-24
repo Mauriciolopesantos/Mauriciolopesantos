@@ -38,8 +38,9 @@
 
 ## 🐍 Contribuições
 
-## 🔥 GitHub Streak
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mauriciolopesantos&theme=dark
+## 🏆 Conquistas no GitHub
+![](https://github-profile-trophy.vercel.app/?username=Mauriciolopesantos&theme=algolia&no-frame=true&row=1&column=7)
+
 
 ---
 
